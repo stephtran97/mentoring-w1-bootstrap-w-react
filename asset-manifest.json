@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/mentoring-w1-bootstrap-w-react/static/css/main.cf062e8c.css",
+    "main.css": "/mentoring-w1-bootstrap-w-react/static/css/main.8f1c6172.css",
     "main.js": "/mentoring-w1-bootstrap-w-react/static/js/main.a4296450.js",
     "static/media/1.jpeg": "/mentoring-w1-bootstrap-w-react/static/media/1.cb35e668cd8cb0dffab7.jpeg",
     "index.html": "/mentoring-w1-bootstrap-w-react/index.html",
-    "main.cf062e8c.css.map": "/mentoring-w1-bootstrap-w-react/static/css/main.cf062e8c.css.map",
+    "main.8f1c6172.css.map": "/mentoring-w1-bootstrap-w-react/static/css/main.8f1c6172.css.map",
     "main.a4296450.js.map": "/mentoring-w1-bootstrap-w-react/static/js/main.a4296450.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf062e8c.css",
+    "static/css/main.8f1c6172.css",
     "static/js/main.a4296450.js"
   ]
 }
