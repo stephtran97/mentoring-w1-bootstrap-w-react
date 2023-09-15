@@ -1,0 +1,15 @@
+.carousel-image {
+  position: relative;
+}
+.carousel-image img {
+  width: 40%;
+  /* height: 200px; */
+  object-fit: contain;
+}
+.carousel-image p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  color: #fff;
+  transform: translateX(-50%);
+}
